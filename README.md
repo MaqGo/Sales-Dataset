@@ -31,7 +31,12 @@ A simplified summary of transactions with:
 
 An academic-style dataset with students' grades in subjects:
 
-Student Name, English, Mathematics, Science
-Calculated fields like Average, Highest Score, and Pass/Fail
+- Student Name,
+- English,
+- Mathematics,
+- Science
+- Calculated fields like Average,
+- Highest Score, and Pass/Fail
+  
 This may serve as a secondary unrelated task (possibly part of a school project or multi-task portfolio).
 
