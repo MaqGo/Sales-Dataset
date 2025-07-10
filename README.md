@@ -1,42 +1,54 @@
-# Sales-Dataset
-## 📊 Retail Sales Data Analysis
+# 📊 Retail Sales & Data Analysis Portfolio
+Welcome to my Data Analysis Portfolio, showcasing practical examples of data cleaning, transformation, and insight generation using Excel, SQL, Python, Power BI, Tableau, and Azure.
 
-This repository contains a retail sales dataset aimed at analyzing customer behavior, sales trends, and product performance. It may be useful for tasks such as exploratory data analysis (EDA), business insights, and data visualization projects.
+This repository demonstrates real-world tasks such as transaction analysis, sales categorization, student performance analysis, and commission calculations — all foundational skills for any Data Analyst.
 
-# 📁 Dataset Contents
-## 1. retail_sales_dataset
+# 📂 Project Contents
+This project includes:
 
-This is the primary dataset. It includes transactional-level data with the following key columns:
+Retail Sales Dataset: Raw transaction data with commission calculations, product category breakdowns, age segmentation, and total sales summaries.
 
-- Transaction ID
-  
-- Date
-- Customer ID
-- Gender
-- Age / General age category (e.g., Adult)
-- Product Category (e.g., Beauty, Clothing, Electronics)
-- Quantity, Price per Unit, and Total Sales
-- Commission 2023
-- Additional commission info (some are labeled incorrectly or may need cleaning)
-💡 Useful for customer segmentation, trend analysis, sales forecasting, and margin analysis.
-## 2. Transactions
+Transactions Worksheet: A simple demonstration of text concatenation and data prep.
 
-A simplified summary of transactions with:
+Student Performance Analysis: An Excel task showing use of formulas, sorting, filtering, conditional formatting, and descriptive statistics (e.g., medians).
 
-- Transaction ID
-- Total Sales
-- Product Category
-- A Concatenate column combining total sales and category (likely for demo or feature engineering)
-## 3. Task 2
+# ✅ Key Skills Demonstrated
+Data Cleaning & Preparation: Using formulas like IFS, CONCATENATE, MAX in Excel to transform raw data.
 
-An academic-style dataset with students' grades in subjects:
+Descriptive Statistics: Median, averages, and aggregations.
 
-- Student Name,
-- English,
-- Mathematics,
-- Science
-- Calculated fields like Average,
-- Highest Score, and Pass/Fail
-  
-This may serve as a secondary unrelated task (possibly part of a school project or multi-task portfolio).
+Data Validation & Conditional Formatting: Highlighting high/low performers.
 
+Filtering & Sorting: Identifying top values by specific criteria.
+
+Commission & KPI Calculation: Using formulas to calculate commissions by year and summarizing total/average commissions.
+
+Segmentation & Categorization: Creating age groups such as “Young Adult”, “Adult”, “Senior”.
+
+# 📊 Screenshots Overview
+# 1️⃣ Retail Sales Dataset
+Includes:
+
+Age segmentation using IFS function.
+
+Total sales and commission calculations.
+
+Pivot-like summaries (total clothing sales, commission rates).
+
+# 2️⃣ Transactions Sheet
+Simple concatenation of sales figures and product category for quick checks.
+
+# 3️⃣ Student Performance Task
+Calculates averages, applies conditional formatting for performance ranges, and displays median scores for each subject.
+
+Filters and sorts to identify top students by subject, average, or highest score.
+
+# 📈 Insights Derived
+Identified total sales and commissions by product category.
+
+Segmented customers by age group to understand demographic trends.
+
+Highlighted best and worst performers in student data to practice performance reporting.
+
+# 📄 License
+This project is for educational and demonstration purposes only.
