@@ -1,7 +1,6 @@
 # 📊 Retail Sales & Data Analysis Portfolio
-Welcome to my Data Analysis Portfolio, showcasing practical examples of data cleaning, transformation, and insight generation using Excel, SQL, Python, Power BI, Tableau, and Azure.
 
-This repository demonstrates real-world tasks such as transaction analysis, sales categorization, student performance analysis, and commission calculations — all foundational skills for any Data Analyst.
+This repository demonstrates real-world tasks such as transaction analysis, sales categorisation, student performance analysis, and commission calculations — all foundational skills for any Data Analyst.
 
 # 📂 Project Contents
 This project includes:
